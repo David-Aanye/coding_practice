@@ -1,4 +1,4 @@
- Note-taking
+> **NOTE-TAKING**
 # Demonstration of using Markdown, Miniconda and VS Code to create static page on Github 
 
 > Things Fall Apart
