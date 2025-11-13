@@ -1,11 +1,11 @@
  Note-taking
-# Demonstration of using Markdown, Miniconda and VS Code to Create static page on Github 
+# Demonstration of using Markdown, Miniconda and VS Code to create static page on Github 
 
-1. Fruit 1
-2. Fruit 2
-3. Fruit 3
+> Things Fall Apart
 
 
+
+> **SAMPLE PICTURES**
 ![Horse Riding](https://images.unsplash.com/photo-1762926949860-32a256c3bfe1?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 
